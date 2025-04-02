@@ -1,0 +1,41 @@
+h1 {
+  display: inline-block;
+  background-color: brown;
+}
+
+h2 { color: yellow;
+  display: inline-block;
+  background-color: brown;
+}
+
+h3 {
+  display: block;
+  background-color: brown;
+  color: yellow;
+}
+
+.storefront {
+  padding: 12px;
+  border: 5px;
+  height: 245px;
+  width: 325px;
+  border-color: brown;
+  border-style: solid;
+  background-color: yellow;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.aisles {
+  width: 325px;
+  height: 245px;
+  padding: 12px;
+  border: 5px;
+  border-style: solid;
+  border-color: brown;
+  background-color: yellow;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: inline-block;
+}
